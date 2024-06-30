@@ -2,7 +2,7 @@
 
 GSU/CodePath AI-Based Project
 
-Collaborators:
+Contributors:
   - Victor Googe
   - William Zheng
   ...
