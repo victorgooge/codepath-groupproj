@@ -13,7 +13,8 @@ Possible Ideas
   - Text-Based Virtual Assistant/Chatbot - Educational Chatbot
   - Training an AI to Play Chess
   - Air Quality Prediction AI - Forest Fire Prediction AI
-  - Predictive Maintenance for Vehicles 
+  - Predictive Maintenance for Vehicles
+  - AI for Traffic Flow Optimization
 
     
 Notes
