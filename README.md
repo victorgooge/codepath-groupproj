@@ -15,11 +15,12 @@ Possible Ideas
   - Personal Assistant
   - Document Summarization Tool
   - Text-Based Virtual Assistant/Chatbot - Educational Chatbot
-  - Image Recognition
+  - Image Recognition - Image caption generator
   - Training an AI to Play Chess
   - Air Quality Prediction AI - Forest Fire Prediction AI
   - Predictive Maintenance for Vehicles
   - AI for Traffic Flow Optimization
+  - AI-driven plagiarism detection
   - Deep Learning Applications: image generation, style transfer, or speech recognition.
 
 
