@@ -20,6 +20,8 @@ Possible Ideas
   - Air Quality Prediction AI - Forest Fire Prediction AI
   - Predictive Maintenance for Vehicles
   - AI for Traffic Flow Optimization
+  - Deep Learning Applications: image generation, style transfer, or speech recognition.
+
 
     
 Notes
