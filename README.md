@@ -12,6 +12,8 @@ Possible Ideas
   - Marta App
   - Text-Based Virtual Assistant/Chatbot
   - Training an AI to Play Chess
+  - Air Quality Prediction AI - Forest Fire Prediction AI
+
     
 Notes
   - Project Learning: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file
