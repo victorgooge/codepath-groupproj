@@ -10,6 +10,10 @@ Contributors:
 
 Possible Ideas
   - Marta App
+  - Spotify Shuffle Al algorithm
+  -AI-Powered Predictive Maintenance System
+  -Personal Assistant
+  -Document Summarization Tool
   - Text-Based Virtual Assistant/Chatbot - Educational Chatbot
   - Training an AI to Play Chess
   - Air Quality Prediction AI - Forest Fire Prediction AI
