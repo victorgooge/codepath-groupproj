@@ -6,6 +6,7 @@ Contributors:
   - Victor Googe
   - William Zheng
   - Jordan Gaffney
+  - Brandon Irving
   ...
 
 Possible Ideas
