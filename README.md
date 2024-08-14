@@ -4,7 +4,6 @@ GSU/CodePath AI-Based Project
 
 Contributors:
   - Victor Googe
-  - William Zheng
   - Jordan Gaffney
   - Brandon Irving
   ...
