@@ -1,0 +1,26 @@
+OUTLINE
+-------
+Project Status: Data Collection
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Assignments
+  >> Research machine learning process/Review materials under Resources section (9/17-9/23)
+
+
+
+* Resources
+    ML Process
+      >> 7 Steps to Build a Machine Learning Model:  https://www.youtube.com/watch?v=IzcX9bTJLj8
+      >> Steps to Build a Machine Learning Model:    https://www.geeksforgeeks.org/steps-to-build-a-machine-learning-model/
+
+    Datasets
+      >> OpenSLR:         https://www.openslr.org/resources.php
+      >> Common Voice:    https://commonvoice.mozilla.org/en/datasets
+
+    // Playlist(s) //
+      (I'll be creating the playlists soon, for now just refer to the links above- Victor)
+
+
+
+* Reminders
+    >> Plan for a weekend meeting, NEXT week (9/23-9/27)
+       (I'll send out a when2meet link next week - Victor)
